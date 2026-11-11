@@ -1,5 +1,5 @@
 ---
-name: idea-screen
+name: idea-validation
 description: Complete first-pass review of a startup idea. Reaches a decided conclusion on
   each thing the idea depends on — customer and willingness to pay, why it does not exist
   yet, timing, how customers are actually reached, and whether it can be a large company —
@@ -9,7 +9,7 @@ description: Complete first-pass review of a startup idea. Reaches a decided con
   reality check, a go/no-go, or asks whether an idea is worth pursuing.
 ---
 
-# Idea screen
+# Idea validation
 
 ## Purpose
 Find the holes in an idea before the founder spends six months building the wrong thing.
@@ -86,12 +86,13 @@ One sentence: the assumption that makes everything else irrelevant if false. Not
 most likely to be wrong — the one most fatal if wrong. Say why it is fatal, and which
 conclusion above it comes from.
 
-### 5. What to test first
+### 5. Validation experiments
 Three experiments, the first aimed at the riskiest assumption. For each:
 - **Assumption tested** — one specific claim
 - **How** — exact steps: what to build or send, to whom, how many, over what period. Banned:
   "build an MVP", "run a survey", "do market research", or "talk to users" without naming
   which users, how many, and what you will ask
+- **Success criteria** — the specific number or outcome that counts as the assumption holding
 - **Kill line** — the result that means stop, as a number or a yes/no outcome, decidable
   without interpretation
 - **Cost and time** — under 200 EUR and under two weeks. If the idea cannot be tested that
