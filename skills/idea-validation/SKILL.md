@@ -120,6 +120,19 @@ Close with confidence:
 - **Medium** — some evidence from the target customer
 - **High** — behaviour: people already paid, switched or committed
 
+## Deliverable
+Produce the review as a Word document (.docx) so the founder keeps it, not only as a chat
+reply.
+
+- **File name:** `<idea-slug>-idea-validation-<YYYY-MM-DD>.docx`
+- **How:** load the docx skill's instructions before writing the file.
+- **Structure:** the six sections above as headings, in order. Put each **Conclusion:**
+  line in bold. Keep links clickable.
+- **In the chat:** give only the verdict, the riskiest assumption and the first experiment,
+  then hand over the file. Do not paste the whole document into the reply.
+- **If no file tools are available**, or the founder asks for it in the chat instead, write
+  the review in the reply and say plainly that no file was created.
+
 ## Rules
 - Every critique must be specific and actionable. If the idea is bad, say so plainly, then
   say what would make it good.
