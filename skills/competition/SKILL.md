@@ -166,27 +166,72 @@ Being disliked is not enough to lose a customer. State what a buyer must give up
 data migration, retraining, integrations, remaining contract, internal politics, the person
 whose job is built around the current tool. Then say what would make someone pay that price.
 
-## Output
-Under 2000 words.
+## 12. Name the criteria that decide this market
+Before judging anyone, state the two or three things that actually decide who wins here,
+drawn from what buyers weigh when they choose — not from what the founder is good at. Deployment
+model, total cost at volume, compliance, integration depth, speed to value, who can sign the
+contract: the set differs every time.
 
-1. **Where the money goes today** — including the share held by the status quo.
-2. **The field** — a table: player, kind, who they serve, entry price, how they acquire
-   customers, direction of travel, with sources.
-3. **For each serious competitor** — why they win, why they lose, what they do if the founder
-   starts winning. Three lines each.
-4. **What users actually complain about** — themes, quoted and dated.
-5. **The shape and the graveyard** — concentration, recent movement, who died and why.
-6. **The map** — axes, placement, and the verdict on the empty space.
-7. **The strongest case against** — the steelman, and the threat ranking by deals at risk.
-8. **What this means** — the segment to enter first, the wedge, what it implies for pricing,
-   and the opening with the evidence under it. If there is no opening, say so.
+Every competitor is then judged against those criteria and only those. A single frame applied
+to everyone is what turns a list into an argument.
+
+## 13. Cluster the field
+Do not present competitors one after another. Group them along the dimension that decides this
+market, and say why that grouping is the right one — the choice of grouping is itself a claim
+about how the market works, and it is usually the sharpest thing in the analysis.
+
+Useful groupings: by business model, by what the buyer is really choosing between, by who can
+and cannot serve a constraint that matters, by origin where that carries legal or procurement
+consequences, by maturity. Three to five clusters. If a cluster holds one company, it is
+probably not a cluster.
+
+Each cluster carries its verdict in the heading: the primary threat, a thin field, not a real
+competitor here, dangerous within two years.
+
+## Output
+The document argues a case. It does not present findings in parallel. Under 2000 words.
+
+**Title** — the conclusion in one line, as a claim the analysis supports. Not "Competitive
+landscape".
+
+**1. The criteria that decide this market** — the two or three, with the evidence that buyers
+actually weigh them. Say plainly that everything below is judged against these.
+
+**2. The field, in clusters** — each cluster heading carries its verdict. Under it: one short
+paragraph on why the cluster as a whole sits there, then two or three lines per named company
+with the specific reason it does or does not compete, each judged against the criteria above.
+Include the status quo and the free route as clusters of their own where they matter.
+
+**3. What customers' own words show** — the themes from reviews and interviews, quoted and
+dated, and what they say about the criteria.
+
+**4. The long-term risk** — what protects the founder today, and for each protection: what a
+rival would have to do to remove it, how long that would take, what it would cost them, and
+whether the defence holds. Put the evidence under each answer rather than asserting it. This
+is where the analysis is won or lost; an unanswered threat is reported as unanswered.
+
+**5. Net** — one paragraph of judgment. Where the founder genuinely holds an advantage, where
+they do not, and what would have to change for the conclusion to flip.
+
+**6. What this means** — the segment to enter first, the wedge, the implication for pricing,
+and the opening with the evidence under it. If there is no opening, say so.
+
+The research sections above — the graveyard, the market shape, displacement costs, the
+positioning map — feed these six. Include them where they carry the argument, as evidence
+inside the relevant cluster or risk, rather than as separate chapters that the reader has to
+reassemble.
 
 ## Deliverable
 A Word document (.docx), built with the docx skill, named
-`<market-slug>-competition-<YYYY-MM-DD>.docx`. In the chat: the opening, the most dangerous
+`<market-slug>-competition-<YYYY-MM-DD>.docx`. In the chat: the title claim, the most dangerous
 competitor, and what they would do if the founder started winning.
 
 ## Rules
+- Lead with the conclusion. Every heading states something, rather than labelling a topic.
+- Judge every competitor against the same stated criteria. A comparison with no common frame
+  is a list, not an analysis.
+- Cluster the field and justify the grouping. Never order the field alphabetically, by size, or
+  by how threatening it feels.
 - Never lead with the dimensions where the founder wins. Use the comparison a buyer would
   actually make, and report it whichever way it falls.
 - A competitor described as weak everywhere means the research was not done. Be accurate about
