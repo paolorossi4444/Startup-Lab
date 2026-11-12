@@ -6,7 +6,9 @@ description: Complete first-pass review of a startup idea. Reaches a decided con
   then names the riskiest assumption, designs cheap experiments with stop lines fixed in
   advance, and closes with a BUILD / TEST FIRST / PIVOT / DROP verdict argued against each
   conclusion. Use when someone describes a startup idea and wants an honest assessment, a
-  reality check, a go/no-go, or asks whether an idea is worth pursuing.
+  reality check, a go/no-go, or asks whether an idea is worth pursuing. Not for sizing the
+  market, defining and counting the customer segment, or mapping competitors in depth; each of
+  those has its own skill.
 ---
 
 # Idea validation

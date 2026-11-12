@@ -6,7 +6,8 @@ description: Decides what a product claims and in whose words — starting from 
   sprint, and reduced to a statement under 25 words with an explicit who-it-is-not-for. Ends
   with a way to test it cheaply and the result that would prove it wrong. Use when someone asks
   how to position a product, what to say on a homepage, how to describe what they do, or why
-  their messaging sounds like everyone else's.
+  their messaging sounds like everyone else's. Not for mapping the competitive field or for
+  defining and counting the segment, which come first and have their own skills.
 ---
 
 # Positioning

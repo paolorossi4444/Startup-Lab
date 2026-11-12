@@ -6,7 +6,8 @@ description: Defines who exactly buys this and what it is worth to them — segm
   year, mapping the buying unit and the trigger that makes them buy now, then ranking the
   segments and naming the one to start from and who to disqualify. Use when someone asks about
   their ICP, ideal customer profile, target customer, segmentation, value proposition, or who
-  to sell to first. Run it before market sizing, which needs a countable definition.
+  to sell to first. Run it before market sizing, which needs a countable definition. Not for
+  choosing what claim to make or in what words, which is positioning.
 ---
 
 # ICP and value proposition

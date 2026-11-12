@@ -6,7 +6,8 @@ description: Maps who else takes this budget — direct and indirect rivals, ope
   sources, mining reviews for what users actually complain about, checking who already failed
   here, ranking threats by the deals they take, and ending with what each rival would do if
   the founder started winning. Use when someone asks about competitors, the competitive
-  landscape, who else does this, or whether a market is too crowded.
+  landscape, who else does this, or whether a market is too crowded. Not for choosing the claim
+  to make against them, which is positioning.
 ---
 
 # Competition
