@@ -17,7 +17,8 @@ believe it.
 ## Inputs
 - **Required:** what the company does and what is being raised, or the intent to raise.
 - **Read first where they exist:** the market sizing, the competition analysis, the positioning,
-  the interview findings. The pitch assembles these. It does not produce new facts.
+  the business model, the interview findings. The pitch assembles these. It does not produce new
+  facts.
 - **Missing:** say which analysis is missing and what the deck will have to assert without
   evidence because of it. Ask at most two questions, then proceed.
 
@@ -68,32 +69,40 @@ the wrong kind reads as not knowing the game:
 Where the evidence for the claimed stage does not exist, lower the claim rather than inflating
 the evidence.
 
-## 4. The narrative
-Build the argument in this order, then compress it:
+## 4. The narrative, in the order of the deck
+Build the argument against the slide sequence below, then compress it. Each item is both a step
+in the argument and a slide.
 
-1. **The world as it is** — the problem, in the customer's words, with evidence of its cost.
-2. **What changed** — the why-now.
-3. **The secret** — what this founder knows that others do not.
-4. **What they built** — the product, shown rather than described, and only the parts that
-   follow from the problem.
-5. **That it works** — evidence of pull: usage, payment, retention, what customers do when it
-   breaks. If there is none yet, the strongest evidence from interviews and tests, labelled for
-   what it is.
-6. **How big this gets** — from the market sizing, with the bottom-up build, not a top-down
-   number alone.
-7. **Why they win** — from the positioning and the competition work: who else is here, what
-   decides the market, and what a rival would have to do to match this.
-8. **Who is doing it** — why this team and not another, with the specific thing each person has
-   done before that bears on this.
-9. **The ask** — below.
+1. **Company purpose** — one declarative sentence saying what the company does. Not a mission,
+   not a category, not a metaphor. If it takes two sentences, it is not clear yet.
+2. **Problem** — the felt pain, from the customer's point of view and in their words, with
+   evidence of what it costs them today.
+3. **Solution** — the value proposition and the use cases it covers. What the customer can now
+   do that they could not before.
+4. **Why now** — the inflection point from section 2, with its date and source.
+5. **Market size** — from the sizing work: TAM, SAM and SOM with both the top-down and the
+   bottom-up build shown, and the assumptions visible. Never a single top-down number.
+6. **Competition** — from the competition work: the honest landscape, including the status quo,
+   the criteria that decide the market, and why this company wins on them. Not a feature matrix.
+7. **Product** — the demo, the features that follow from the problem, and the architecture where
+   it matters. Shown rather than described.
+8. **Business model** — from the business-model work: how revenue is made, the price and what it
+   scales with, and the unit economics with their inputs visible, lifetime value and acquisition
+   cost included with the retention assumption stated.
+9. **Team** — the founding story and the domain expertise: the specific thing each person has
+   done before that bears on this problem.
+10. **Financials** — the profit and loss, the projections and the key metrics, with the
+    assumptions behind the projections stated rather than buried.
 
-Compress it until it can be told in thirty seconds, then in two minutes, then in the full
-version. A story that only works at full length will not survive being repeated.
+Then **the ask**, which closes the deck: the amount, what it buys, and the milestone it reaches.
+
+Compress the whole into thirty seconds, then two minutes, then the full version. A story that
+only works at full length will not survive being repeated.
 
 ## 5. The deck
-Build the slides from the narrative, not the narrative from a template. The conventional order
-is roughly the sequence above, in twelve to fifteen slides for a first meeting, with anything
-else moved to an appendix that answers questions rather than pre-empting them.
+The structure above is the structure of the deck, in that order. Twelve to fifteen slides for a
+first meeting; anything else goes to an appendix that answers questions rather than pre-empting
+them. Build the slides from the argument, never the argument from the template.
 
 Rules that hold on every slide:
 
@@ -106,6 +115,7 @@ Rules that hold on every slide:
   position. No pie charts, no feature matrices against competitors.
 - Every figure carries its source. Uncited numbers invite the one question that derails the
   meeting.
+- Speaker notes carry the argument; the slide carries the point.
 
 ## 6. The ask
 Specific, and justified by what it buys: the amount, the runway it provides in months, the
@@ -133,20 +143,22 @@ nothing in particular is the most common reason a good meeting goes nowhere.
   more than the round.
 - No claim the product cannot support today, for the same reason it is barred from the
   positioning.
-- No market size that contradicts the sizing analysis. If a bigger number is wanted, redo the
+- No business model figure that contradicts the business-model work, and no market size that
+  contradicts the sizing analysis. If a bigger number is wanted, redo the
   sizing honestly or use the one that exists.
 
 ## Deliverable
-Two things.
+Two files.
 
-**The narrative** — a Word document (.docx) built with the docx skill, named
+**The deck — a PowerPoint (.pptx)**, built with the pptx skill, named
+`<company-slug>-pitch-<YYYY-MM-DD>.pptx`, following the ten-section structure above plus the ask,
+with speaker notes under each slide and an appendix for the detail that would otherwise crowd the
+main sequence.
+
+**The narrative — a Word document (.docx)**, built with the docx skill, named
 `<company-slug>-pitch-narrative-<YYYY-MM-DD>.docx`: the thirty-second version, the two-minute
 version, the full argument, the hardest question with its answer, and the evidence behind each
 claim with its source.
-
-**The deck** — built with the session's slide-deck artifact type where one is offered, otherwise
-with the pptx skill as a .pptx file. Speaker notes carry the argument; the slides carry the
-point.
 
 In the chat: the thirty-second version, the hardest question, and the believability gap.
 
