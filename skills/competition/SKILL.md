@@ -1,155 +1,203 @@
 ---
 name: competition
-description: Maps who else solves this problem — direct and indirect rivals, adjacent and
-  global players who could enter, and the status quo of spreadsheets, internal builds and
-  doing nothing — researches each across product, pricing, positioning, traction, customers
-  and distribution, mines reviews for what users actually complain about, checks the graveyard
-  of those who already failed, and ends with the strongest case that someone else wins. Use
-  when someone asks about competitors, the competitive landscape, who else does this, or how
-  a product is positioned against rivals.
+description: Maps who else takes this budget — direct and indirect rivals, open-source and
+  free options, adjacent and global players who could enter, and the status quo of
+  spreadsheets, internal builds and doing nothing — using primary research as well as public
+  sources, mining reviews for what users actually complain about, checking who already failed
+  here, ranking threats by the deals they take, and ending with what each rival would do if
+  the founder started winning. Use when someone asks about competitors, the competitive
+  landscape, who else does this, or whether a market is too crowded.
 ---
 
 # Competition
 
 ## Purpose
-Find out who really takes this budget today, and whether the space the founder wants to
-occupy is an opening or a place where others have already died.
+Find out who really takes this budget today, what happens when the founder starts taking it
+from them, and whether the space they want is an opening or a graveyard.
 
 ## Inputs
 - **Required:** what the product does, for whom. A URL or a description.
-- **Also read if provided:** earlier analyses for this idea, interview notes where customers
-  named what they use today.
+- **Also read if provided:** interview notes where customers named what they use today and
+  what they evaluated, deals already won or lost, earlier analyses for this idea.
 - **Geography:** cover the home market and the global players who could enter it. A US or
-  Asian leader with no European presence today is still a competitor if entry costs them
-  little.
+  Asian leader with no European presence today is a competitor if entry costs them little.
+
+## Two errors to avoid, in both directions
+A founder reading this will tend either to dismiss rivals as big and slow, or to conclude
+that a busy market is closed. Both are wrong often enough to state up front:
+
+- **A crowded market is usually good news.** It proves budget exists and buyers are already
+  paying someone. The question is not whether others are there, it is whether anyone owns the
+  segment the founder wants.
+- **An empty market is usually bad news.** Most empty spaces are empty because the money is
+  not there, the buyer cannot sign, or someone tried and died. Treat emptiness as something to
+  explain, not as an opportunity.
+
+Report the field as it is and let the evidence decide.
 
 ## 1. Define the field
-List who competes for this budget, across all five kinds. The set is incomplete without the
-last two.
+Who competes for this budget, across six kinds. The set is incomplete without the last three.
 
 | Kind | What it is |
 |---|---|
 | Direct | Same problem, same approach, same buyer |
 | Indirect | Same problem, different approach |
 | Adjacent | Next door, could step across |
-| Emerging | Recently funded or launched, no traction yet |
-| **The status quo** | A spreadsheet, email, a manual process, an internal build, a junior hired to do it, or nothing at all |
+| Emerging | Recently funded or launched, little traction yet |
+| **Free and open source** | A library, an open-source project, a free tier, a general-purpose tool used for this |
+| **The status quo** | A spreadsheet, email, a manual process, an internal build, a junior hired to do it, or nothing |
 
 The status quo wins most deals. Treat it as a named competitor with its own analysis: what it
-costs the customer today, why it persists, and what it would take to displace it.
+costs the customer today, who defends it internally, and what would have to happen for it to
+be abandoned.
 
-## 2. Build the set
-Search several ways, because each finds different companies: the category name, "alternatives
-to X", what customers call the problem in their own words, funding announcements in the
-space, review-site categories, and the suppliers listed in public tenders where those exist.
+## 2. Find them properly
+Searching the category name finds the companies that market themselves well, not the ones that
+take the deals. Use several routes, because each surfaces a different set:
 
-Five to eight named companies plus the status quo. If the search finds very few, say that the
-search found few rather than concluding the market is empty — an empty-looking market usually
-means the category is named differently.
+- **What customers say they evaluated.** The strongest source. If interviews exist, take the
+  names from them.
+- **The words customers use for the problem**, not the words the industry uses for the category
+- **Review-site categories and their "compare with" lists**
+- **"Alternatives to X" pages and listicles**, which reveal who is considered interchangeable
+- **Funding announcements** in the space over the last 24 months
+- **Job advertisements**: who is hiring for this problem, in which countries, for which segment
+- **Accelerator and investor portfolios**, for the companies with no marketing yet
+- **Public tenders and framework agreements**, where the buyer is an institution
+- **Package registries, app stores and code repositories**, for the free and open-source route
 
-## 3. Research each one
-Gather across these layers, with the source and date for every claim:
+Five to eight named companies plus the status quo. If few turn up, say the search found few
+rather than concluding the market is empty — usually the category is simply named differently.
+
+## 3. Research each one, including primary research
+Public pages are marketing. Go further where it is cheap to do so: sign up for the free tier,
+read the documentation and the changelog, look at the release cadence, read the job ads, check
+how many reviews arrive per quarter and whether that is rising or falling.
+
+Gather across these layers, with source and date for every claim:
 
 | Layer | Where to look |
 |---|---|
-| Product | Site, documentation, free trial, changelog |
-| Pricing | Pricing page, public contracts, reseller listings |
+| Product | Site, documentation, free trial, changelog, release notes |
+| Pricing | Pricing page, public contracts, reseller listings, tender awards |
 | Positioning | Homepage wording, who they say they are for |
-| Traction | Funding rounds, headcount trend, customer logos, press |
-| Customers | Review sites, case studies, communities |
-| Distribution | How they acquire: sales team, partners, self-serve, channel |
-| Team and backing | Founders' background, who funded them, recent senior hires |
+| Traction | Funding, headcount trend, customer logos, review volume over time |
+| Customers | Review sites, case studies, communities, conference talks |
+| Distribution | How they acquire: direct sales, partners, self-serve, channel, marketplace |
+| Team and backing | Founders' background, investors, recent senior hires, departures |
+| Direction | Job ads, changelog, recent announcements: where are they going next |
 
-On pricing, record more than the headline number: minimum seats, annual-only billing, what
-sits behind the enterprise tier, setup and onboarding fees, usage overages, and contract lock-
-in. The real cost of switching often lives there.
+**Separate claims from facts.** What a company says about itself — customer counts, "trusted
+by", performance numbers — is a claim and is labelled as one. It becomes a fact when a filing,
+a customer, a regulator or a tender confirms it.
 
-On traction, say what the figure is evidence of. A large raise means they can outspend the
-founder for years; a hiring freeze or departures in the engineering team mean the opposite.
+On pricing, record more than the headline: minimum seats, annual-only billing, what sits behind
+"contact us", setup fees, usage overages, contract length. The cost of switching often lives
+there.
+
+On positioning, collect every competitor's homepage headline and set them side by side. Claims
+that appear everywhere are table stakes, not differentiation.
 
 ## 4. Mine the reviews
-This is where the best evidence is, and it is free. Go to the review sites and communities
-where this type of buyer complains, and extract:
+The best free evidence there is. Go where this buyer complains and extract:
 
 - What users praise most, in their words
-- What they complain about most — this is the opening, if it is real
-- Why people switched away, and what triggered it
+- What they complain about most — the opening, if it is real
+- Why people switched away, and what triggered the switch
 - What they ask for that nobody provides
-- What they say when they compare two products directly
+- What they say when comparing two products directly
 
-Quote verbatim and date the review. A complaint repeated across years and across competitors
-is a structural gap. A complaint from eighteen months ago that stopped appearing has probably
-been fixed.
+Method matters: read the middle ratings first, because the extremes are usually a billing
+dispute or a solicited review. Filter by date, since a complaint from two years ago may be
+fixed. Quote verbatim and date each one. A complaint repeated across years and across several
+competitors is a structural gap; a complaint that stopped appearing has been closed.
 
-## 5. The graveyard
-Find who already tried this and failed, and say what killed them: no budget holder, sales
+## 5. The shape of the market
+Say whether this market is concentrated behind one or two players or fragmented across many
+small ones, and give the evidence. The two demand opposite strategies, and a founder who
+misreads this builds the wrong company.
+
+Add the direction of travel over the last 24 months: who entered, who was acquired, who shut
+down, who raised and what they said they would do with the money.
+
+## 6. The graveyard
+Find who already tried this and failed, and say what killed them: no budget holder, a sales
 cycle longer than the runway, a regulation, an incumbent bundling it for free, a market too
-small. Startup obituaries, acquisitions at low prices, dormant sites and abandoned repositories
-all count. If nothing is found, say the search found nothing rather than assuming nobody tried.
+small. Obituaries, cheap acquisitions, dormant sites and abandoned repositories all count. If
+nothing is found, say the search found nothing rather than assuming nobody tried.
 
-## 6. Why the incumbents have not solved it
-For each large player who could obviously close this gap, say why they have not: it conflicts
-with their revenue, it serves a segment they do not want, their architecture makes it
-expensive, or they simply have not got to it yet. The last of these is not a moat, and the
-analysis says so.
+## 7. Why the incumbents have not solved it
+For each large player who could obviously close this gap, say why they have not: it cannibalises
+their revenue, it serves a segment they do not want, their architecture makes it expensive, or
+they have simply not got to it. The last one is not a moat, and the analysis says so.
 
-## 7. The map and the gap test
+## 8. What they do if the founder starts winning
+The question that decides whether the business survives its own success. For each serious
+competitor, say what they do at the point where the founder takes real deals from them: bundle
+the capability for free, cut price, copy the feature, buy the company, or do nothing because
+the segment is too small for them to care. Then say how long that response would take and what
+it would cost the founder.
+
+## 9. The map and the gap test
 Place the players on two axes that mean something. Good axes separate the field; bad ones
 flatter the founder.
 
 | Axes that work | Axes to avoid |
 |---|---|
 | Simple to complex | Good to bad |
-| SMB to enterprise | Cheap to expensive, where price just follows size |
+| SMB to enterprise | Cheap to expensive, where price only tracks size |
 | Self-serve to sales-led | Old to new |
-| Specialised to general | Any axis where the founder is alone in the corner by construction |
+| Specialised to general | Any axis where the founder stands alone by construction |
 
-Then test the empty space the founder wants to occupy, which is the point of the exercise. An
-empty quadrant is one of three things: an opening nobody has reached, a position that is
-uneconomic, or a graveyard. Say which one, and on what evidence.
+Then test the empty space the founder wants. It is one of three things: an opening nobody has
+reached, a position that does not pay, or a graveyard. Say which, and on what evidence.
 
-## 8. Steelman the opposition
-Write the strongest honest case that a specific named competitor wins this market, as that
-competitor's own strategist would write it. Then say what would have to be true for the
-founder to beat it. If the steelman is more convincing than the answer, say that plainly.
+## 10. Steelman and threat ranking
+Write the strongest honest case that one named competitor wins this market, as that company's
+own strategist would write it. Then say what would have to be true for the founder to beat it.
+If the steelman reads better than the answer, say so.
 
-## 9. What displacement costs
-An incumbent being disliked is not enough. State what a customer must give up to switch: data
-migration, retraining, integrations, contract term remaining, internal politics, the person
-whose job is tied to the current tool. Then say what would make someone pay that price.
+Rank the threats by the deals they would take from this founder, not by size. A giant that
+never meets this buyer is not the threat; the well-funded company selling to exactly this
+segment is.
+
+## 11. What displacement costs
+Being disliked is not enough to lose a customer. State what a buyer must give up to switch:
+data migration, retraining, integrations, remaining contract, internal politics, the person
+whose job is built around the current tool. Then say what would make someone pay that price.
 
 ## Output
 Under 2000 words.
 
-1. **Where the money goes today** — one paragraph, including the share that goes nowhere
-   because the status quo holds.
-2. **The field** — a table: player, kind, who they are for, entry price, how they acquire
-   customers, how strong they are, with sources.
-3. **For each serious competitor** — why they win, why they lose, and what would make them
-   dangerous to this founder. Three lines each, no padding.
-4. **What users actually complain about** — the themes from the reviews, quoted and dated.
-5. **The graveyard** — who died and what killed them.
-6. **The map** — the two axes, the placement, and the verdict on the empty space.
-7. **The strongest case against** — the steelman and what would have to be true to beat it.
-8. **The opening** — if there is one: which segment, which unmet need, and the evidence under
-   it. If there is not, say so.
+1. **Where the money goes today** — including the share held by the status quo.
+2. **The field** — a table: player, kind, who they serve, entry price, how they acquire
+   customers, direction of travel, with sources.
+3. **For each serious competitor** — why they win, why they lose, what they do if the founder
+   starts winning. Three lines each.
+4. **What users actually complain about** — themes, quoted and dated.
+5. **The shape and the graveyard** — concentration, recent movement, who died and why.
+6. **The map** — axes, placement, and the verdict on the empty space.
+7. **The strongest case against** — the steelman, and the threat ranking by deals at risk.
+8. **What this means** — the segment to enter first, the wedge, what it implies for pricing,
+   and the opening with the evidence under it. If there is no opening, say so.
 
 ## Deliverable
 A Word document (.docx), built with the docx skill, named
-`<market-slug>-competition-<YYYY-MM-DD>.docx`. In the chat: the opening, the steelman, and
-the single most dangerous competitor.
+`<market-slug>-competition-<YYYY-MM-DD>.docx`. In the chat: the opening, the most dangerous
+competitor, and what they would do if the founder started winning.
 
 ## Rules
-- Never lead with the dimensions where the founder wins. Choose the comparison that a buyer
-  would actually use, and report it whichever way it falls.
-- Be accurate about competitors' strengths. A competitor described as weak everywhere means
-  the research was not done.
+- Never lead with the dimensions where the founder wins. Use the comparison a buyer would
+  actually make, and report it whichever way it falls.
+- A competitor described as weak everywhere means the research was not done. Be accurate about
+  their strengths.
+- Label what is claimed and what is verified. Never promote a company's own marketing number
+  into a fact.
 - Every factual claim carries its source and date. Where something cannot be verified, write
   that it could not be verified from public sources rather than estimating it quietly.
-- Where pricing is not public, say so and report the indirect signals — contact-sales pages,
-  tender awards, reseller listings.
-- Include the status quo and the global players who could enter. Omitting either makes the
-  field look emptier than it is.
+- Where pricing is not public, say so and report the indirect signals.
+- Always include the status quo, the free and open-source route, and the global players who
+  could enter. Omitting any of them makes the field look emptier than it is.
 - Five to eight competitors. Beyond that the analysis stops producing decisions.
 - End every section with what it means for the founder's decision. A fact with no implication
   does not belong in the document.
