@@ -43,6 +43,13 @@ Warn against the easy sample. Friends, people from the founder's own company and
 wants to be encouraging will distort the result. Say how many of the interviews should come
 from people with no reason to be kind.
 
+Prioritise the people who have already hit a ceiling. Someone who adopted a comparable tool
+and ran into its limits is worth more than ten people who have the problem in theory: they
+have already decided the problem is worth money, they can describe exactly where the current
+answer stops working, and they have nothing to prove by being polite. Review sites and
+communities are where these people are already writing about it, so take names from there as
+well as from the founder's network.
+
 ### 3. Where to find them and how to reach them
 Work out the actual channels for this specific population, which differ every time:
 professional networks and search filters, industry associations and member directories,
@@ -108,6 +115,11 @@ Read the real notes. Work bottom-up from what people actually said before formin
 Rank the strength of what you have: behaviour and commitment outweigh promises, which
 outweigh opinions, which outweigh compliments. Compliments are not data and are reported as
 noise.
+
+Weigh feedback by what it cost the person to give it. Someone who has paid, or committed
+their own time or reputation, says what they actually think; someone who was given access for
+free is answering a favour and will be kind about it. Where the founder is considering giving
+the product away to get users, say plainly that it buys politeness, not evidence.
 
 ## Deliverable
 A Word document (.docx), built with the docx skill.
