@@ -164,9 +164,12 @@ to a pessimistic and an optimistic value. Give the answer as a range.
 
 ## Output
 Open with the findings as statements with the numbers inside them — what the market is worth
-on each definition, what share would be needed, and whether that is plausible — then the
-tables, then the method. Round honestly: no three significant figures on a number built from
-judgment inputs.
+on each definition, which way it is moving and why, what share would be needed, and whether
+that is plausible — then the tables, then the method. Round honestly: no three significant
+figures on a number built from judgment inputs.
+
+The drivers and headwinds go next to the growth figure they explain, not in a separate chapter
+at the end, so the reader sees the force and the number together.
 
 ## Deliverable
 Two files.
