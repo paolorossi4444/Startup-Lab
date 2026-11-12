@@ -39,6 +39,13 @@ harder of the two problems, and it is decided by arithmetic before it is decided
 - **Before product-market fit, a launch is mostly irrelevant.** What matters is the first
   conversations and whether anyone pays. Launch moments matter later.
 
+## When the evidence is thin
+Much of what follows may rest on nothing yet, and that is normal early. Where it does, the
+answer gets shorter, not longer and more hedged. Say in the first line how much of this rests
+on evidence and how much on reasoning. Reduce any unsupported section to its conclusion and the
+one thing that would settle it. Put what to go and find out at the top rather than at the end.
+A short honest answer is worth more than a long one padded to look complete.
+
 ## 1. Can the price carry the motion?
 Do this first. Take the annual value of a customer from the business model, then set it against
 what each way of reaching them costs:

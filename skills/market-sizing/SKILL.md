@@ -49,6 +49,13 @@ Two reasoning patterns, as logic to adapt rather than templates to copy:
 **Both builds are always produced**, whichever one leads. A sizing with only one of them is
 incomplete, because neither method catches its own errors.
 
+## When the evidence is thin
+Much of what follows may rest on nothing yet, and that is normal early. Where it does, the
+answer gets shorter, not longer and more hedged. Say in the first line how much of this rests
+on evidence and how much on reasoning. Reduce any unsupported section to its conclusion and the
+one thing that would settle it. Put what to go and find out at the top rather than at the end.
+A short honest answer is worth more than a long one padded to look complete.
+
 ## 1. Define the perimeter before any number
 One paragraph: what counts as in this market and what does not, and on what basis. State the
 ICP threshold explicitly where one exists — company size, revenue, licence, fleet, volume —

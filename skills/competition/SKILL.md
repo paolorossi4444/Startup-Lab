@@ -66,6 +66,13 @@ that a busy market is closed. Both are wrong often enough to state up front:
 
 Report the field as it is and let the evidence decide.
 
+## When the evidence is thin
+Much of what follows may rest on nothing yet, and that is normal early. Where it does, the
+answer gets shorter, not longer and more hedged. Say in the first line how much of this rests
+on evidence and how much on reasoning. Reduce any unsupported section to its conclusion and the
+one thing that would settle it. Put what to go and find out at the top rather than at the end.
+A short honest answer is worth more than a long one padded to look complete.
+
 ## 1. Define the field
 Who competes for this budget, across six kinds. The set is incomplete without the last three.
 

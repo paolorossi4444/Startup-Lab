@@ -39,6 +39,13 @@ them, and that you can reach them.
 - **What they do beats what they are.** A trigger — a hire, a renewal, a rule change, a failure
   — predicts buying better than any attribute.
 
+## When the evidence is thin
+Much of what follows may rest on nothing yet, and that is normal early. Where it does, the
+answer gets shorter, not longer and more hedged. Say in the first line how much of this rests
+on evidence and how much on reasoning. Reduce any unsupported section to its conclusion and the
+one thing that would settle it. Put what to go and find out at the top rather than at the end.
+A short honest answer is worth more than a long one padded to look complete.
+
 ## 1. Cut the market by what moves the value
 List the candidate dimensions and say which actually change what the product is worth: scale,
 process, industry, geography and regulatory regime, technology in place, how they buy, how
