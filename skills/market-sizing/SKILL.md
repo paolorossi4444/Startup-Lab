@@ -3,10 +3,11 @@ name: market-sizing
 description: Sizes a market to investment-memo standard — perimeter and ICP defined first,
   then a bottom-up build from counted buyers and unit economics and a top-down filtering of a
   named forecast, always both, reconciled against each other, cross-checked against other
-  published sizings and comparable filings, and closed with the market share implied by the
-  target outcome. Every judgment input is visible and evidenced. Use when someone asks how
-  big a market is, for TAM/SAM/SOM, market sizing, or the revenue potential of a company,
-  idea or sector.
+  published sizings and comparable filings. Analyses the drivers and headwinds that move the
+  market today and over the forecast, and closes with the market share implied by the target
+  outcome. Every judgment input is visible and evidenced. Use when someone asks how big a
+  market is, for TAM/SAM/SOM, market sizing, market drivers, or the revenue potential of a
+  company, idea or sector.
 ---
 
 # Market sizing
@@ -116,7 +117,32 @@ Report both numbers and the gap between them in percent, then explain the gap th
 inputs that cause it. If they differ by more than 3x, say which one you trust and why. A
 projection may blend the two, but only after the gap has been explained.
 
-## 8. Cross-check outside your own model
+## 8. What moves this market, for and against
+A size is a snapshot; the decision depends on direction. Set out the forces on both sides, and
+never only the favourable ones.
+
+**Drivers** — what increases demand. For each: what it is, the evidence it is real with a date
+and source, how large the effect is where it can be quantified, and when it acts — already
+under way, within one to three years, or later. Say whether it is structural, and therefore
+durable, or cyclical, and therefore temporary. A budget rising because of a one-off programme
+is not the same as a cost falling permanently.
+
+**Headwinds** — what reduces, delays or caps demand, held to the same standard: regulation that
+blocks or slows adoption, procurement cycles, substitution by something cheaper, saturation
+where the obvious buyers are already served, falling prices that shrink the pool even as volumes
+rise, macro conditions that postpone discretionary spend, or a dependency outside the market's
+control.
+
+**The net, and the growth rate.** State how these forces combine and over what period. Then do
+the thing that makes this section worth writing: show that the growth rate used in the sizing
+follows from the named drivers. A rate taken from a published forecast and left unexplained is
+somebody else's assumption carried into your model; if the drivers cannot account for it, say so
+and use a rate you can defend.
+
+**What would reverse it.** The specific event or change that would turn the direction around,
+and how visible it would be before it happened.
+
+## 9. Cross-check outside your own model
 Compare against other published sizings of the same market, and against the disclosures of
 comparable companies — prospectuses, S-1s and annual reports often carry a sized market and
 real unit economics. Report where you sit against them, including when you are the outlier.
@@ -126,13 +152,13 @@ Then run at least three internal checks and report them even when they pass:
 - Is the implied spend per buyer plausible against that buyer's total budget?
 - Does the implied revenue of the largest existing player match its reported figures?
 
-## 9. The implied-share test
+## 10. The implied-share test
 A market size on its own decides nothing. Work back from the outcome being tested: target
 exit value, multiple, margin, implied revenue, and therefore the market share required. State
 whether that share is plausible, measured against what leaders in comparable markets actually
 hold.
 
-## 10. Sensitivity
+## 11. Sensitivity
 Name the two or three inputs that move the result most, and show the result when each moves
 to a pessimistic and an optimistic value. Give the answer as a range.
 
@@ -167,4 +193,8 @@ In the chat: the headline numbers, the implied share and the sensitivity only.
 - Report the checks that fail. A failed check is the most useful line in the analysis.
 - Never invent a source, a figure, a quote or a link. If a number cannot be found, say what is
   missing and what it would take to get it.
+- Show that the growth rate follows from the named drivers. A rate inherited from a published
+  forecast without explanation is not defensible.
+- Report headwinds at the same length and with the same evidence as drivers. A market with only
+  tailwinds was not researched.
 - Give a range, not a single confident number, whenever the inputs are judgments.
