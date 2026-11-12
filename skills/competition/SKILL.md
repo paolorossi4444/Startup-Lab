@@ -22,6 +22,37 @@ from them, and whether the space they want is an opening or a graveyard.
 - **Geography:** cover the home market and the global players who could enter it. A US or
   Asian leader with no European presence today is a competitor if entry costs them little.
 
+## How to reason
+Write the analysis an outside investor would write about this market, not the one that
+justifies a decision already taken. The facts are the same for everyone: if an honest investor
+and an honest founder look at the same market, they should reach the same conclusions about who
+competes, how the field divides, and what decides who wins. What differs is only the decision
+that follows, because their alternatives differ — so keep the analysis and the implication
+separate, and never let the second bend the first.
+
+That discipline rests on a few habits:
+
+- **Start from the decision, not the topic.** The analysis exists to answer whether this is
+  worth entering, where, and against whom. A section that does not move that answer does not
+  belong, however interesting it is.
+- **Argue, do not describe.** Claim, evidence, the strongest objection, and why the claim
+  survives — or that it does not.
+- **Frame it as what has to be true.** Not "the market is attractive", but: for this to work,
+  these things must hold, and here is the evidence on each and how strong it is.
+- **Keep fact, estimate and judgment apart, always.** A judgment labelled as judgment is
+  honest. A judgment presented as a number is not, and it is the thing that destroys the
+  analysis the first time someone asks where the figure came from.
+- **Take the other side seriously**, because if you do not, the reader will.
+- **Primary research beats desk research.** What is public is available to everyone. The
+  conversation with someone inside the market is where the analysis earns something others do
+  not have.
+- **Say in advance what would change your mind**, as a fact or a number, not as a feeling.
+- **Never invert the sequence.** Gather, then judge. Never judge and then collect what supports
+  it.
+
+Where the founder is also the person being analysed, the conflict of interest is total, so the
+standard goes up rather than down.
+
 ## Two errors to avoid, in both directions
 A founder reading this will tend either to dismiss rivals as big and slow, or to conclude
 that a busy market is closed. Both are wrong often enough to state up front:
@@ -213,8 +244,12 @@ is where the analysis is won or lost; an unanswered threat is reported as unansw
 **5. Net** — one paragraph of judgment. Where the founder genuinely holds an advantage, where
 they do not, and what would have to change for the conclusion to flip.
 
-**6. What this means** — the segment to enter first, the wedge, the implication for pricing,
-and the opening with the evidence under it. If there is no opening, say so.
+**6. What this means for the decision** — kept separate from the analysis above, and the only
+place where the reader's own position enters: the segment to enter first, the wedge, the
+implication for pricing, and the opening with the evidence under it. If there is no opening,
+say so. Where the conclusion would differ for an investor and for a founder — a sound business
+that is not venture-scale, say — give both readings and the reason they diverge, rather than
+picking the flattering one.
 
 The research sections above — the graveyard, the market shape, displacement costs, the
 positioning map — feed these six. Include them where they carry the argument, as evidence
@@ -228,6 +263,8 @@ competitor, and what they would do if the founder started winning.
 
 ## Rules
 - Lead with the conclusion. Every heading states something, rather than labelling a topic.
+- Keep the analysis separate from what the reader should do about it. The facts do not change
+  with who is reading.
 - Judge every competitor against the same stated criteria. A comparison with no common frame
   is a list, not an analysis.
 - Cluster the field and justify the grouping. Never order the field alphabetically, by size, or
