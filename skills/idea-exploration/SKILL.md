@@ -187,9 +187,10 @@ question that genuinely does not apply is dismissed in a clause, never padded:
 - what this does if the cycle turns: demand slows, funding stops, the trend reverses. Say
   which of the opportunities is the worst place to be when that happens, and which improves
 - the honest objection: the strongest reason this does not work
-- **what to validate first** — the single assumption this whole idea stands on, written so it
-  can be handed straight to the validation skill. Not a list of unknowns: the one that, if it
-  turns out false, makes the rest irrelevant
+- **what to validate first** — the single assumption this whole idea stands on, written as
+  something testable and handed straight to the validation skill. Not a list of unknowns: the
+  one that, if it turns out false, makes the rest irrelevant. Every opportunity carries one,
+  because an idea without a way to test it is not yet an idea a founder can use
 
 ### 3. What was cut
 A single line for each candidate that did not make the shortlist, with the reason in three or
@@ -209,18 +210,23 @@ where the interesting and unproven thought goes, so that keeping it does not wea
 grounded part above. Never fill it to look imaginative.
 
 ### 5. Where to start
-The part the founder actually acts on, so give it room.
+What this hands over is a set of ideas with the thing to go and test attached to each. This
+section says which one to test first and what testing it looks like. Give it room.
 
 - **Which one, and why that one and not the others.** Say "worth validating first", never
   "this works". Where two share a customer or a discovery path, say so — one set of
   conversations may test both.
-- **What can be started in Europe this month.** Concrete and present tense: who is reachable,
-  what already exists here to build on or to sell to, what a first month looks like. Not a
-  roadmap — the first moves, and roughly what each one costs.
+- **What validating it actually looks like.** Who would have to say yes, what you would have
+  to see with your own eyes, and roughly how long before you knew. Describe the shape of the
+  test, not a plan for the company.
 - **The cheapest thing to do this week**, specifically: a named call, a document to read, a
   question to put to someone. Never "do research". Say what each possible answer would mean,
   including the answer that kills it.
 - **The fallback if the first answer is no** — the next question, not a different sector.
+
+Only write what you actually know. Where the search did not establish who is reachable or
+what something costs, say so rather than filling the gap with a plausible-sounding name: a
+fabricated contact is worse than an admitted gap, because the founder will act on it.
 
 Then say plainly that everything after this is the validation skill's job, not settled here.
 
