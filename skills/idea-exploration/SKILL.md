@@ -203,10 +203,10 @@ guess, it belongs in the shortlist above with the guess named, not down here. Th
 ideas whose ingredients are unverified, not for ideas that are merely bold.
 
 The ideas that did not clear the evidence bar but are worth having in the founder's head, a
-short paragraph each. However many there are — none is a fine answer, and so is five. Say in one clause what each would need to be true. This section
-is fenced off on purpose: it is where to put the thought that is interesting and unproven,
-so that keeping it does not weaken the grounded part above. Leave it out only if there genuinely
-is nothing — never fill it to look imaginative.
+short paragraph each, and however many there are — none is a fine answer, and so is five. Say
+in one clause what each would need to be true. This section is fenced off on purpose: it is
+where the interesting and unproven thought goes, so that keeping it does not weaken the
+grounded part above. Never fill it to look imaginative.
 
 ### 5. Where to start
 The part the founder actually acts on, so give it room.
@@ -225,7 +225,7 @@ The part the founder actually acts on, so give it room.
 Then say plainly that everything after this is the validation skill's job, not settled here.
 
 ### 6. Sources
-Every source cited, as a linked list. It does not count against the word limit.
+Every source cited, as a linked list.
 
 ## Deliverable
 Produce the exploration as a Word document (.docx) so it can be revisited and compared with
