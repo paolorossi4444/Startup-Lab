@@ -198,6 +198,7 @@ later ones.
 - Say which opportunities need capital, a licence, or a specific co-founder, rather than
   presenting everything as equally reachable.
 - Do not rank by excitement. Rank by how verifiable the trigger is and how open the window.
+  This governs the order they are presented in, never which ideas are allowed on the list.
 - Do not mistake the founder's list of areas for the set of possible answers. Running their
   list well and never asking whether it is the right list is the most common way this work
   comes back polished and useless.
