@@ -40,16 +40,31 @@ the paperwork.
   or constraints. Use it to judge who could actually execute each opportunity.
 
 ## Where opportunities come from
-Two different things, and most explorations only look for the first.
+Three different things, and most explorations only look for the first.
 
 **Something changed and the opening it left has not been taken.** The space was already
 there; something moved and made it reachable.
 
 **A market formed that was not there before.** Nobody was unserved, because nobody wanted
 this until recently. People started wanting something, or started doing something, and now
-there is demand where there was none. This is where the most interesting companies come from
-and it is the one a careful analyst always misses, because there is no gap to point at and no
-incumbent failing to serve anyone. Look for it on purpose.
+there is demand where there was none. This is where many of the most interesting companies
+come from and it is the one a careful analyst always misses, because there is no gap to point
+at and no incumbent failing to serve anyone. Look for it on purpose.
+
+**The pieces are lying around and nobody has put them together.** Nothing changed and no
+market formed. Several things simply exist at the same time, and setting them next to each
+other suggests a company that nobody has built. There is no event to date and no trigger to
+cite. What gets verified here is that each piece is real; the connection between them is the
+idea, and it is allowed to be wrong, because testing it is the validation step's job. Say
+plainly which part is the guess rather than dressing a composition up as a discovery.
+
+What that third one sounds like. World models are being trained; a set of companies is
+building robotics stacks deliberately kept hardware-agnostic; dense real-world interaction
+data is the input all of them are short of. Three facts, none of them an event. Put them in
+one sentence and a company appears — whoever feeds real-world data into world models across
+hardware. That may be wrong in ten ways, and finding out is the next skill's job. Naming it
+is this one's. An exploration that could not produce that sentence, because none of the three
+pieces arrived with a date, has mistaken its filing system for its thinking.
 
 The list below is a starting library — examples, not a menu to work through and not a limit.
 Many markets have openings that fit none of them. Find the reason that actually applies, name
@@ -95,13 +110,12 @@ At least one opportunity must come from outside the frame the founder gave, mark
 or the output must say the search outside the frame found nothing worth proposing. Never pad
 to satisfy this: an honest empty report beats a forced extra idea.
 
-Worked example. Asked to explore AI for municipal administration, and handed five procedures
-to look at, these questions produced three things that were in none of the five: the authority
-has the problem but the applicant carries the cost and the deadline pressure, so the customer
-is the applicant; the suppliers who already hold the municipal software contracts are a channel
-reaching hundreds of authorities on one signature; and the economic argument the request was
-built on rested on a tax that European municipalities largely do not collect, which killed the
-premise rather than an idea.
+Worked example. Asked to explore AI for municipal administration and handed five procedures to
+look at, these questions produced three answers that were in none of the five: the authority
+has the problem but the applicant carries the cost, so the customer is the applicant; the
+suppliers holding the municipal contracts are a channel reaching hundreds of authorities on one
+signature; and the economic argument behind the request rested on a tax European municipalities
+largely do not collect, which killed the premise rather than an idea.
 
 ## How to work
 Separate two things that are easy to confuse. **The trigger must be real**: the thing that
@@ -188,6 +202,10 @@ seeing — one of them may be the one they recognise. Keep it to one line each a
 explain.
 
 ### 4. The long shots
+An opportunity may be a bet. Where the pieces under it are real and only the connection is a
+guess, it belongs in the shortlist above with the guess named, not down here. These are for
+ideas whose ingredients are unverified, not for ideas that are merely bold.
+
 Two or three ideas that did not clear the evidence bar but are worth having in the founder's
 head, a short paragraph each. Say in one clause what each would need to be true. This section
 is fenced off on purpose: it is where to put the thought that is interesting and unproven,
@@ -231,11 +249,13 @@ later ones.
   the empty search.
 - No generic ideas. If an opportunity could be proposed for any sector by swapping one word,
   cut it.
-- At most one proposed opportunity may rest mainly on a law or a regulation, unless the
-  founder's request is itself about a regulatory change. Regulation is the easiest trigger to
-  date and therefore the one this method drifts towards; if most of the shortlist turns out to
-  be compliance businesses, the search went where the citations were easy rather than where
-  the opportunity is. Go back and look again.
+- Nothing in the output has to rest on a regulatory change, and none should be included to
+  look rigorous. Regulation belongs here only when the founder asks about one, or when it
+  honestly is what opened the market. When they do ask about a specific change, follow it as
+  far as it goes, even if that means the whole exploration. Statutes are the easiest trigger
+  to date, which is exactly why this method drifts towards compliance businesses and away from
+  the interesting ones: a shortlist that has turned into a survey of obligations went where
+  the citations were easy. Go back and look again.
 - Write it so the founder wants to keep reading. Name things in plain words, keep the
   sentences short, and put the idea before the apparatus. Rules, articles and dates belong in
   a clause at the end of a sentence, never at the front of one.
