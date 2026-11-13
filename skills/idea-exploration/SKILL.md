@@ -202,8 +202,8 @@ An opportunity may be a bet. Where the pieces under it are real and only the con
 guess, it belongs in the shortlist above with the guess named, not down here. These are for
 ideas whose ingredients are unverified, not for ideas that are merely bold.
 
-Two or three ideas that did not clear the evidence bar but are worth having in the founder's
-head, a short paragraph each. Say in one clause what each would need to be true. This section
+The ideas that did not clear the evidence bar but are worth having in the founder's head, a
+short paragraph each. However many there are — none is a fine answer, and so is five. Say in one clause what each would need to be true. This section
 is fenced off on purpose: it is where to put the thought that is interesting and unproven,
 so that keeping it does not weaken the grounded part above. Leave it out only if there genuinely
 is nothing — never fill it to look imaginative.
