@@ -1,12 +1,11 @@
 ---
 name: idea-exploration
-description: Finds concrete startup opportunities in a market — either an opening something
-  left behind, such as a capability that did not exist before, a cost that collapsed, a model
-  that worked elsewhere and never arrived, or a sector ready to consolidate, or a market that
-  has simply formed because people started wanting something new. Researches each one, names
-  companies already doing it or something like it, judges whether the window is open or
-  closed, and recommends where to start. Use when someone wants to explore a sector, find
-  ideas, or asks what could be built in a market.
+description: Finds concrete startup opportunities in a market — an opening something left
+  behind, a market that has just formed because people started wanting something new, or a
+  company nobody has built yet from pieces that already exist side by side. Researches each
+  one, names companies already doing it or something like it, judges whether the window is
+  open or closed, and attaches to every idea the one assumption to go and test. Use when
+  someone wants to explore a sector, find ideas, or asks what could be built in a market.
 ---
 
 # Idea exploration
