@@ -1,8 +1,6 @@
 ---
 name: idea-exploration
-description: Finds concrete startup opportunities in a market — an opening something left
-  behind, a market that has just formed because people started wanting something new, or a
-  company nobody has built yet from pieces that already exist side by side. Researches each
+description: Finds concrete startup opportunities. Researches each
   one, names companies already doing it or something like it, judges whether the window is
   open or closed, and attaches to every idea the one assumption to go and test. Use when
   someone wants to explore a sector, find ideas, or asks what could be built in a market.
@@ -17,16 +15,9 @@ contact with a customer is the validation skill's job, so nothing here has to be
 before it can be proposed.
 
 ## How to write it
-Like one founder talking to another over coffee. The test for a sentence is whether you would
-say it out loud; if you would not, rewrite it. Cut any word that is there to sound
-professional rather than to be understood — leverage, ecosystem, landscape, paradigm, value
-chain, strategic, holistic, synergy, robust, framework, vertical, solution, space as a noun,
-structural when you mean real. Words founders actually say, like burn and runway and moat,
-are fine. If a technical term is unavoidable, explain it in the same sentence and move on.
+Like one founder talking to another over coffee. Cut any word that is there to sound
+professional rather than to be understood.
 
-Each idea has to fit in one sentence the founder could repeat to a friend without looking at
-the page. If it needs a second sentence to make sense, it is not clear yet, and no amount of
-evidence underneath will fix that.
 
 ## Where opportunities come from
 Three different things. Most explorations only look for the first.
