@@ -56,15 +56,9 @@ market formed. Several things simply exist at the same time, and setting them ne
 other suggests a company that nobody has built. There is no event to date and no trigger to
 cite. What gets verified here is that each piece is real; the connection between them is the
 idea, and it is allowed to be wrong, because testing it is the validation step's job. Say
-plainly which part is the guess rather than dressing a composition up as a discovery.
-
-What that third one sounds like. World models are being trained; a set of companies is
-building robotics stacks deliberately kept hardware-agnostic; dense real-world interaction
-data is the input all of them are short of. Three facts, none of them an event. Put them in
-one sentence and a company appears — whoever feeds real-world data into world models across
-hardware. That may be wrong in ten ways, and finding out is the next skill's job. Naming it
-is this one's. An exploration that could not produce that sentence, because none of the three
-pieces arrived with a date, has mistaken its filing system for its thinking.
+plainly which part is the guess rather than dressing a composition up as a discovery. An
+exploration that cannot form a thought of this kind, because none of its pieces arrived with
+a date, has mistaken its filing system for its thinking.
 
 The list below is a starting library — examples, not a menu to work through and not a limit.
 Many markets have openings that fit none of them. Find the reason that actually applies, name
@@ -109,13 +103,6 @@ check each:
 At least one opportunity must come from outside the frame the founder gave, marked as such —
 or the output must say the search outside the frame found nothing worth proposing. Never pad
 to satisfy this: an honest empty report beats a forced extra idea.
-
-Worked example. Asked to explore AI for municipal administration and handed five procedures to
-look at, these questions produced three answers that were in none of the five: the authority
-has the problem but the applicant carries the cost, so the customer is the applicant; the
-suppliers holding the municipal contracts are a channel reaching hundreds of authorities on one
-signature; and the economic argument behind the request rested on a tax European municipalities
-largely do not collect, which killed the premise rather than an idea.
 
 ## How to work
 Separate two things that are easy to confuse. **The trigger must be real**: the thing that
@@ -238,6 +225,9 @@ later ones.
 - Never force an opportunity into a known pattern. Name the specific thing that changed, or
   the demand that appeared, in plain words, with a date and a source, whether or not it fits
   any category.
+- Reason from the market in front of you, not from a case you have seen before. A past
+  example is a thing that happened once, not a shape this market has to fit — and reaching
+  for one is how an exploration ends up proposing the previous exploration again.
 - When the reason is a new capability — AI being the obvious one — the bar is higher, not
   lower. Thousands of things became buildable at once, so "X, but with AI" is the most banal
   output possible. For each such opportunity, say who has already tried since the capability
