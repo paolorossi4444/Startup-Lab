@@ -125,13 +125,17 @@ about the market.
    did not mention, and put down more candidates than you will propose — thirty is not too
    many. Cut afterwards. Narrowing while generating is how an exploration ends up as four
    obvious ideas.
-2. Then research what actually happened: the precedent abroad or earlier, with company names,
+2. Be curious while searching, not merely thorough. When a search turns up something
+   surprising that is not what you went looking for, follow it before returning to the plan.
+   The interesting thing is often two clicks past the thing you set out to find, and a search
+   that only ever confirms the question it was asked will only ever return the obvious.
+3. Then research what actually happened: the precedent abroad or earlier, with company names,
    dates and outcomes. Search for who is already doing it, locally and globally.
-3. For a rule change, find the specific act or directive, its date, and what it changed.
+4. For a rule change, find the specific act or directive, its date, and what it changed.
    Never describe a rule change you have not found.
-4. Cut on the trigger, not on the idea. Say how many candidates you generated, how many had a
+5. Cut on the trigger, not on the idea. Say how many candidates you generated, how many had a
    real trigger underneath, and how many you propose.
-5. Judge the window honestly, including when it has already closed.
+6. Judge the window honestly, including when it has already closed.
 
 Tag every claim: [V] verified with source and date, [E] estimated from stated inputs,
 [A] assumed. Never cite a company, a law or a link you did not actually find.
@@ -144,15 +148,17 @@ and say they disagree; a contradiction between sources is a finding, not a probl
 away. Never cite a link you did not open.
 
 ## Output
-Under 2500 words, sources and the cut list excluded.
+No word count. The length follows from how many real opportunities there are, never from
+padding, and the whole thing should be readable in ten minutes. Say each thing once and stop.
 
 ### 1. What was searched
 Short: the market, the geography, what was looked for, how many candidates were generated
 against how many are proposed, and which directions produced nothing.
 
 ### 2. The opportunities
-Four to six, each under 200 words. The 2500-word total governs: where the opportunities are
-rich, propose four rather than running over.
+As many as have something real underneath, and no more. There is no target number: seven is
+fine if the market yields seven, and three genuinely good ones are better than six where the
+last three were written to fill a quota. Keep each under 250 words.
 
 Give each one a heading that states its claim rather than a neutral label, so that someone
 reading only the headings gets the argument. Then write it as two or three short paragraphs
@@ -181,6 +187,9 @@ question that genuinely does not apply is dismissed in a clause, never padded:
 - what this does if the cycle turns: demand slows, funding stops, the trend reverses. Say
   which of the opportunities is the worst place to be when that happens, and which improves
 - the honest objection: the strongest reason this does not work
+- **what to validate first** — the single assumption this whole idea stands on, written so it
+  can be handed straight to the validation skill. Not a list of unknowns: the one that, if it
+  turns out false, makes the rest irrelevant
 
 ### 3. What was cut
 A single line for each candidate that did not make the shortlist, with the reason in three or
@@ -199,16 +208,23 @@ is fenced off on purpose: it is where to put the thought that is interesting and
 so that keeping it does not weaken the grounded part above. Leave it out only if there genuinely
 is nothing — never fill it to look imaginative.
 
-### 5. The comparison
-A short table: opportunity, type of play, window, what it takes to start, who it suits.
+### 5. Where to start
+The part the founder actually acts on, so give it room.
 
-### 6. Where to start
-Name one or two to take further and say why those and not the others — "worth validating
-first", never "this works". Then the single cheapest thing to do this week to learn whether
-the first one is real: a specific call, search, document or conversation, not "do research".
-Say plainly that what follows is the validation skill's job, not something settled here.
+- **Which one, and why that one and not the others.** Say "worth validating first", never
+  "this works". Where two share a customer or a discovery path, say so — one set of
+  conversations may test both.
+- **What can be started in Europe this month.** Concrete and present tense: who is reachable,
+  what already exists here to build on or to sell to, what a first month looks like. Not a
+  roadmap — the first moves, and roughly what each one costs.
+- **The cheapest thing to do this week**, specifically: a named call, a document to read, a
+  question to put to someone. Never "do research". Say what each possible answer would mean,
+  including the answer that kills it.
+- **The fallback if the first answer is no** — the next question, not a different sector.
 
-### 7. Sources
+Then say plainly that everything after this is the validation skill's job, not settled here.
+
+### 6. Sources
 Every source cited, as a linked list. It does not count against the word limit.
 
 ## Deliverable
