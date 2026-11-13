@@ -16,10 +16,17 @@ generative step: it produces candidates, it does not pass judgement on them. Whe
 survives contact with customers is the validation skill's job, so nothing here has to be
 proven to work before it can be proposed.
 
-Write it the way one founder talks to another. Plain words, short sentences, the thing named
-directly. If a sentence could appear in a law firm's client alert, it is the wrong sentence:
-rewrite it. The reader should finish each opportunity thinking about the business, not about
-the paperwork.
+Write it the way one founder talks to another over coffee. Plain words, short sentences, the
+thing named directly. The test for any sentence is whether you would say it out loud to a
+founder; if you would not, rewrite it. The reader should finish each opportunity thinking
+about the business, not about the write-up.
+
+Cut any word that is there to sound professional rather than to be understood. The usual
+offenders: leverage, ecosystem, landscape, paradigm, value chain, strategic, holistic,
+synergy, robust, utilise, facilitate, framework, vertical, solution, space as a noun,
+structural when you mean real, and any phrase of more than two words that could be one.
+Founders' own words — burn, runway, moat, churn — are fine, because founders say them. Where
+a technical term is genuinely needed, say what it means in the same sentence and move on.
 
 ## Inputs
 - **Required:** a starting point — a sector, a technology, a customer type, a specific
@@ -270,6 +277,9 @@ later ones.
 - Write it so the founder wants to keep reading. Name things in plain words, keep the
   sentences short, and put the idea before the apparatus. Rules, articles and dates belong in
   a clause at the end of a sentence, never at the front of one.
+- Say the idea in one sentence a founder could repeat to a friend without looking at the
+  page. If that sentence needs a second sentence to make sense, the idea is not clear yet and
+  no amount of evidence under it will fix that.
 - A safe, obvious list is a failed exploration. The founder can already think of the obvious
   ideas; they came here for the ones they would not have reached alone. An idea that makes
   them stop and reconsider the market is worth more than a fifth well-evidenced restatement
