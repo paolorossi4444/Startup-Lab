@@ -1,20 +1,26 @@
 ---
 name: idea-exploration
-description: Finds concrete startup opportunities in a market by looking for what specifically
-  changed and has not been exploited yet — a capability that did not exist before, a law that
-  opened a market, a model that worked elsewhere and never arrived, a sector ready to
-  consolidate, a cost that collapsed — then researches each one, names who is already doing
-  it, judges whether the window is open or closed, and recommends where to start. Use when
-  someone wants to explore a sector, find ideas, or asks what could be built in a market.
+description: Finds concrete startup opportunities in a market — either an opening something
+  left behind, such as a capability that did not exist before, a cost that collapsed, a model
+  that worked elsewhere and never arrived, or a sector ready to consolidate, or a market that
+  has simply formed because people started wanting something new. Researches each one, names
+  companies already doing it or something like it, judges whether the window is open or
+  closed, and recommends where to start. Use when someone wants to explore a sector, find
+  ideas, or asks what could be built in a market.
 ---
 
 # Idea exploration
 
 ## Purpose
-Give the founder ideas worth thinking about, each anchored to something that really changed.
-This is the generative step: it produces candidates, it does not pass judgement on them.
-Whether an idea survives contact with customers is the validation skill's job, so nothing
-here has to be proven to work before it can be proposed.
+Give the founder ideas worth thinking about, each anchored to something real. This is the
+generative step: it produces candidates, it does not pass judgement on them. Whether an idea
+survives contact with customers is the validation skill's job, so nothing here has to be
+proven to work before it can be proposed.
+
+Write it the way one founder talks to another. Plain words, short sentences, the thing named
+directly. If a sentence could appear in a law firm's client alert, it is the wrong sentence:
+rewrite it. The reader should finish each opportunity thinking about the business, not about
+the paperwork.
 
 ## Inputs
 - **Required:** a starting point — a sector, a technology, a customer type, a specific
@@ -34,18 +40,28 @@ here has to be proven to work before it can be proposed.
   or constraints. Use it to judge who could actually execute each opportunity.
 
 ## Where opportunities come from
-An opportunity exists because something specific changed and has not yet been exploited.
-Your job is to find what changed, whatever form it takes.
+Two different things, and most explorations only look for the first.
 
-The list below is a starting library of such reasons — examples, not a menu to work through
-and not a limit. Many markets have openings that fit none of them. Find the reason that
-actually applies, name it in your own words, and never force an opportunity into a listed
-category to make it look rigorous.
+**Something changed and the opening it left has not been taken.** The space was already
+there; something moved and made it reachable.
 
+**A market formed that was not there before.** Nobody was unserved, because nobody wanted
+this until recently. People started wanting something, or started doing something, and now
+there is demand where there was none. This is where the most interesting companies come from
+and it is the one a careful analyst always misses, because there is no gap to point at and no
+incumbent failing to serve anyone. Look for it on purpose.
+
+The list below is a starting library — examples, not a menu to work through and not a limit.
+Many markets have openings that fit none of them. Find the reason that actually applies, name
+it in your own words, and never force an opportunity into a listed category to make it look
+rigorous.
+
+- People want something they did not want three years ago, or stopped minding something they
+  used to mind
 - A capability that did not exist at all: something that could not be built before and now
-  can, opening products, and sometimes whole markets, with no earlier equivalent
+  can, with no earlier equivalent
+- A product category that quietly became good enough, after years of being nearly good enough
 - A cost that collapsed, making viable something that was possible but uneconomic
-- A law, directive or licence regime that opened a market, or is about to
 - A model that worked elsewhere or earlier and has not arrived here, or arrived late
 - A fragmented sector where scale has just become possible, or where owners are retiring
   with no succession
@@ -54,6 +70,9 @@ category to make it look rigorous.
 - A new channel or buying behaviour that reaches customers the incumbent owns
 - A demographic or behavioural shift
 - Data, infrastructure or capacity that did not exist before
+- Something that used to work and has stopped working, leaving everyone in that market
+  looking for a replacement
+- A law, directive or licence regime that opened a market, or is about to
 
 Report how you searched and which directions produced nothing. A direction that yields
 nothing is reported as empty, never filled with something generic.
@@ -86,11 +105,20 @@ premise rather than an idea.
 
 ## How to work
 Separate two things that are easy to confuse. **The trigger must be real**: the thing that
-changed, with its date and its source, is researched and never invented, because a trigger
+changed, or the demand that appeared, is researched and never invented, because a trigger
 nobody can check is what turns this work into a list of plausible sentences. **The idea built
 on the trigger does not have to be proven.** It is a candidate, and candidates are allowed to
 be unproven — that is what the validation step is for. Do not kill an idea because you cannot
 yet show it works; kill it when the thing it rests on turns out not to have happened.
+
+Real does not mean statutory. A trigger is evidenced by anything a reader can check: a product
+that shipped, a company that raised money and what it said it would do with it, a price series,
+a usage or adoption number, a hiring pattern, a category that had no companies two years ago
+and has five now, a forum full of people improvising the same workaround. The date can be when
+something became observable, not only when it entered into force. Insisting on a legal
+citation narrows every exploration to compliance businesses, because statutes are the only
+things that come with a clean date attached — and that is a bias in the method, not a finding
+about the market.
 
 1. Generate widely first. Follow the trigger wherever it goes, including places the request
    did not mention, and put down more candidates than you will propose — thirty is not too
@@ -115,14 +143,14 @@ and say they disagree; a contradiction between sources is a finding, not a probl
 away. Never cite a link you did not open.
 
 ## Output
-Under 2200 words, sources excluded.
+Under 2500 words, sources and the cut list excluded.
 
 ### 1. What was searched
 Short: the market, the geography, what was looked for, how many candidates were generated
 against how many are proposed, and which directions produced nothing.
 
 ### 2. The opportunities
-Four to six, each under 200 words. The 2200-word total governs: where the opportunities are
+Four to six, each under 200 words. The 2500-word total governs: where the opportunities are
 rich, propose four rather than running over.
 
 Give each one a heading that states its claim rather than a neutral label, so that someone
@@ -134,11 +162,17 @@ The paragraphs have to answer all of the following, in whatever order the argume
 question that genuinely does not apply is dismissed in a clause, never padded:
 
 - what it is, in plain words
-- what changed, with a date and a linked source — a trigger with no date is not a trigger
+- what changed, or what appeared, with a date and a linked source. The date can be when it
+  became observable; the source does not have to be a statute, but it does have to be checkable
 - the precedent: who did this before or elsewhere, when, what happened to them, with links
 - the customer: a named segment, not "businesses", and what they pay for
 - who is already here, local and global, and how far they have got. If the search finds
   nothing, say the search found nothing rather than claiming the field is empty
+- **two or three companies to go and look at** — doing this, or something structurally
+  similar in another market or another country. Startups, family firms, listed companies,
+  anything. Name them, say in a clause what they actually do and how it is going. These are
+  reference points for the founder to study while exploring, which is a different job from
+  sizing up a competitor, so give them even when they are not competitors at all
 - the type of play — software, marketplace, buy-and-build consolidation, services, regulated
   operator — said plainly, including when it is a capital-intensive roll-up and not a startup,
   and roughly what it takes to begin
@@ -147,23 +181,29 @@ question that genuinely does not apply is dismissed in a clause, never padded:
   which of the opportunities is the worst place to be when that happens, and which improves
 - the honest objection: the strongest reason this does not work
 
-### 3. The long shots
+### 3. What was cut
+A single line for each candidate that did not make the shortlist, with the reason in three or
+four words. The founder asked for ideas, so the ones that were discarded are still worth
+seeing — one of them may be the one they recognise. Keep it to one line each and do not
+explain.
+
+### 4. The long shots
 Two or three ideas that did not clear the evidence bar but are worth having in the founder's
 head, a short paragraph each. Say in one clause what each would need to be true. This section
 is fenced off on purpose: it is where to put the thought that is interesting and unproven,
 so that keeping it does not weaken the grounded part above. Leave it out only if there genuinely
 is nothing — never fill it to look imaginative.
 
-### 4. The comparison
+### 5. The comparison
 A short table: opportunity, type of play, window, what it takes to start, who it suits.
 
-### 5. Where to start
+### 6. Where to start
 Name one or two to take further and say why those and not the others — "worth validating
 first", never "this works". Then the single cheapest thing to do this week to learn whether
 the first one is real: a specific call, search, document or conversation, not "do research".
 Say plainly that what follows is the validation skill's job, not something settled here.
 
-### 6. Sources
+### 7. Sources
 Every source cited, as a linked list. It does not count against the word limit.
 
 ## Deliverable
@@ -177,8 +217,9 @@ later ones.
 - **If no file tools are available**, write it in the reply and say no file was created.
 
 ## Rules
-- Never force an opportunity into a known pattern. Name the specific thing that changed, in
-  plain words, with a date and a source, whether or not it fits any category.
+- Never force an opportunity into a known pattern. Name the specific thing that changed, or
+  the demand that appeared, in plain words, with a date and a source, whether or not it fits
+  any category.
 - When the reason is a new capability — AI being the obvious one — the bar is higher, not
   lower. Thousands of things became buildable at once, so "X, but with AI" is the most banal
   output possible. For each such opportunity, say who has already tried since the capability
@@ -190,6 +231,14 @@ later ones.
   the empty search.
 - No generic ideas. If an opportunity could be proposed for any sector by swapping one word,
   cut it.
+- At most one proposed opportunity may rest mainly on a law or a regulation, unless the
+  founder's request is itself about a regulatory change. Regulation is the easiest trigger to
+  date and therefore the one this method drifts towards; if most of the shortlist turns out to
+  be compliance businesses, the search went where the citations were easy rather than where
+  the opportunity is. Go back and look again.
+- Write it so the founder wants to keep reading. Name things in plain words, keep the
+  sentences short, and put the idea before the apparatus. Rules, articles and dates belong in
+  a clause at the end of a sentence, never at the front of one.
 - A safe, obvious list is a failed exploration. The founder can already think of the obvious
   ideas; they came here for the ones they would not have reached alone. An idea that makes
   them stop and reconsider the market is worth more than a fifth well-evidenced restatement
